@@ -1,0 +1,27 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"omkar",
+            "city":"kalyan",
+            "email":"omkar@gmail.com",
+            "age":"40"
+        },
+
+             {
+            "id":2,
+            "name":"kaushal",
+            "city":"kalyan",
+            "email":"kaushal@gmail.com",
+            "age":"50"
+        },
+
+             {
+            "id":3,
+            "name":"ankit",
+            "city":"kalyan",
+            "email":"ankit@gmail.com",
+            "age":"60"
+        }
+    ]
+}
